@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![CYF's github stats](https://github-readme-stats.vercel.app/api?username=CYFFF&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CYF&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
